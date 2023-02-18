@@ -1,0 +1,47 @@
+.Card{
+    width: 250px;
+    height: 380px;
+    border-style: groove;
+    margin: 20px 0px 0px 100px;
+}
+.CardImage{
+    width:250px;
+    height:200px;
+}
+.CardHeader{
+    display: flex;
+    justify-content: space-between;
+    font-size:10px;
+    padding:5px;
+    color: rgb(150, 150, 150);
+}
+.CardTitle{
+    padding:5px;
+    height:40px;
+    width:240px;
+}
+.CardSubTitle{
+    height: 45px;
+    width: 240px;
+    font-size:10px;
+    padding:5px;
+}
+.CardLine{
+    width: 240px;
+}
+.CardEngagement{
+    display: flex;
+    flex-direction: row;
+    width: 240px;
+    padding: 5px;
+    justify-content: space-between;
+}
+
+.CardEngagement img{
+    width: 20px;
+    height: 20px;
+}
+.CardAppreciate{
+    display:flex;
+    flex-direction: row;
+}

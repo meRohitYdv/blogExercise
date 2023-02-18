@@ -1,0 +1,13 @@
+div{
+    flex:none;
+}
+.Footer{
+    background-color: black;
+    color: white;
+    padding: 20px 0px 20px 100px;
+    margin-top: 20px;
+}
+p{
+    padding:0px;
+    margin:0px;
+}
